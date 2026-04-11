@@ -1,7 +1,7 @@
 # Hey there, I'm Mahin Zaman
 Full-Stack Developer & QA Engineer working at HelixSync.
 
-I am a Full-Stack Developer with 1+ years of experience building and maintaining modern <br>web applications. Currently working as a Software QA Tester at HelixSync, I focus on ensuring product <br>quality and improving user experience.<br>Core Skills:<br>-Frontend: Next.js, React, TypeScript, JavaScript (ES6+), Tailwind CSS, Responsive Design<br>-Backend: .NET, C#, RESTful APIs<br>- Database: SQL Server<br>-Testing & QA: Playwright, Manual Testing, QA Analytics, Bug Tracking (Jira)<br>-UI/UX: Figma, User Flow Optimization, Component-Based Design<br>-Tools: Git, VS Code, Postman, Chrome DevTools, Claude AI
+I am a Full-Stack Developer with 1+ years of experience building and maintaining modern <br>web applications. Currently working as a Software QA Tester at HelixSync, I focus on ensuring product <br>quality and improving user experience.
 
 
 ##  Socials:
