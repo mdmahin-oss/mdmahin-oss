@@ -1,4 +1,4 @@
-Hey there, I'm Mahin Zaman
+# Hey there, I'm Mahin Zaman
 
 Full-Stack Developer & QA Engineer working at HelixSync
 
