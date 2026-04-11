@@ -9,7 +9,7 @@ I am a Full-Stack Developer with 1+ years of experience building and maintaining
 
 #  Tech Stack:
 ## Frontend:
-![TailwindCSS](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=TailwindCss&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
