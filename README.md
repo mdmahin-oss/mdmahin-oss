@@ -1,7 +1,7 @@
 # Hey there, I'm Mahin Zaman
 Full-Stack Developer & QA Engineer working at HelixSync.
 
-I am a Full-Stack Developer with 1+ years of experience building and maintaining modern <br>web applications. Currently working as a Software QA Tester at HelixSync, I focus on ensuring product quality and improving user experience.
+I am a Full-Stack Developer with 1+ years of experience building and maintaining modern web applications. Currently working as a Software QA Tester at HelixSync, I focus on ensuring product quality and improving user experience.
 
 
 ##  Socials:
