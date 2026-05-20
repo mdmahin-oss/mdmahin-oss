@@ -1,7 +1,7 @@
 # Hey there, I'm Mahin Zaman
 Full-Stack Developer & QA Engineer working at HelixSync.
 
-I am a Full-Stack Developer with 1+ years of experience building and maintaining modern web applications. Currently working as a Software QA Tester at HelixSync, I focus on ensuring product quality and improving user experience.
+I am a Front-End Developer with 1+ years of experience building and maintaining modern web applications. Currently working as a Software QA Engineer at HelixSync, I focus on ensuring product quality and improving user experience.
 
 
 ##  Socials:
@@ -14,11 +14,7 @@ Frontend: <br/>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
 Backend: <br/>
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-
 
 Testing:<br/>
 ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) 
