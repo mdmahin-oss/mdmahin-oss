@@ -6,6 +6,7 @@ I am a Front-End Developer with 1+ years of experience building and maintaining 
 
 ##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mahin-zaman-12207822b/?skipRedirect=true) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdmahin3255@gmail.com) 
+[![portfolio](https://img.shields.io/badge/portfolio-D14836?logo=portfolio&logoColor=white)]([mailto:mdmahin3255@gmail.com](https://my-project-virid-iota.vercel.app/)) 
 
 #  Tech Stack:
 Frontend: <br/>
