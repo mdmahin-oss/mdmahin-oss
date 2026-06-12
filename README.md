@@ -21,7 +21,7 @@ Backend: <br/>
 
 Testing:<br/>
 ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) 
-![typescript](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![typescript](https://img.shields.io/badge/typescript-FF6C37?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
